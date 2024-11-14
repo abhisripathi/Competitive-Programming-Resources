@@ -59,6 +59,7 @@
 - Problem Books in Mathematics -  by K. Bencsath P.R. Halmos
 - The Art and Craft of Problem Solving, 3rd Edition
 - Cracking the Coding Interview: 150 Programming Questions and Solutions
+- Cracking the coding interview by gayle laakman mcdowell.
 
 ## Interview Prep
 - [Pramp](https://www.pramp.com/#/)
